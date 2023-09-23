@@ -25,12 +25,12 @@
   } */
 
 .container2 {
-    display: contain;
+    display: flex;
     justify-content: center;
   }
 #con2 {
-    width: 30%;
-    height: 30%;
+    width: 500px;
+    height: 300px;
     margin: 10px;
   }
   
