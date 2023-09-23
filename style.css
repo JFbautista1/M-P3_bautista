@@ -25,7 +25,7 @@
   } */
 
 .container2 {
-    display: flex;
+    display: contain;
     justify-content: center;
   }
 #con2 {
